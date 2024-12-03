@@ -7,6 +7,8 @@ Lung and Colon Cancer Histopathological Images
 Contains 25,000 images across 5 classes, including lung cancer, colon cancer, and healthy samples.
 https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
 
+https://cancer-detection-colon---aca--vs--benign.streamlit.app/
+
 @STREAMLIT:
 To generate standalone Streamlit apps for each of the 5 cancer detection variants, five different repositories have been created. In each repository, the Python file (.py)
 and the model file (.sav) differ, while the Google Colab file (CANCER DETECTION WITH DEEP LEARNING.ipynb) and the requirements.txt file are identical.
